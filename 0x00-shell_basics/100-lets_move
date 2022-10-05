@@ -1,2 +1,2 @@
 #!/bin/bash
-mv src/*[A-Z]* traget/tmp/u
+mv [[:upper:]]* /tmp/u
