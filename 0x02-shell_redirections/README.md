@@ -1,1 +1,1 @@
-Create a script that takes a list of words as input and prints only words that appear exactly once
+Display all lines of the file /etc/ssh/sshd_config starting with a letter
